@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* JEONG-YEON added*/
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+
+.tg .tg-83nw {
+  background-color: #efefef;
+  border-color: #343434;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top
+}
+
+.tg .tg-p6v9 {
+  border-color: #343434;
+  text-align: center;
+  vertical-align: top
+}
+
+.tg .tg-c3ow {
+  border-color: inherit;
+  text-align: center;
+  vertical-align: top
+}
+
+.tg .tg-73oq {
+  border-color: #000000;
+  text-align: left;
+  vertical-align: top
+}
+
+.tg .tg-ur59 {
+  border-color: #343434;
+  text-align: left;
+  vertical-align: top
+}
+
+
+/* JEONG-YEON made style */
+.wrapper {
+  position: relative;
+  margin: 100px 300px
+}
+
+.inner-div {
+  margin: auto;
+}
+
+.table-div {
+  margin-bottom: 50px;
+}
+
+.title-div {
+  width: fix;
+  text-align: center;
+}
+
+.date-div {
+  text-align: right;
+  margin-right: 50px;
+}
+
+.date-span {
+  padding-left: 10px;
+}
